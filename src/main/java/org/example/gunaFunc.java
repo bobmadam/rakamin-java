@@ -11,7 +11,7 @@ public class gunaFunc {
     }
     // Metode main sebagai metode utama program
     public static void main(String[] args) {
-        int hasilTambah = tambah(5, 3); // Memanggil metode tambah
+        int hasilTambah = tambah(5, 10); // Memanggil metode tambah
         int hasilKuadrat = kuadrat(4); // Memanggil metode kuadrat
         System.out.println("Hasil tambah: " + hasilTambah);
         System.out.println("Hasil kuadrat: " + hasilKuadrat);
